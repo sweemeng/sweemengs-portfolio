@@ -1,6 +1,6 @@
 baseURL: "https://sweemeng.com"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "sweemengs page"
 theme: hugo-profile
 
 outputs:
