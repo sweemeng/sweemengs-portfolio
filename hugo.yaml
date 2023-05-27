@@ -24,6 +24,17 @@ markup:
 
 Menus:
   main:
+    - identifier: blog
+      name: Blog
+      title: Blog posts
+      url: https://medium.com/@sweemeng
+      weight: 1
+    - identifier: gallery
+      name: Gallery
+      title: Blog posts
+      url: https://photos.nomadiccodemonkey.com/
+      weight: 2
+
    #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
