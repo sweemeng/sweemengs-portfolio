@@ -181,7 +181,7 @@ params:
 
           - Lead backend developer for a product.
           - Maintain and secure AWS infrastructure
-      - job: "Cofounder"
+      - job: "Technical Cofounder"
         company: "Sinar Project"
         companyUrl: "https://sinarproject.org"
         date: "Mar 2015 - Nov 2018"
@@ -192,6 +192,17 @@ params:
           url: "https://example.com"
         content: 
           I founded a civic tech organization. I primary maintained code and infrastructure. But I also there to be involved in tech policy
+      - job: "System Engineer"
+        company: "OnApp"
+        companyUrl: ""
+        date: "Apr 2012 - Feb 2015"
+        info:
+          enable: false
+        featuredLink:
+          enable: false
+          url: "https://example.com"
+        content: 
+          I was tasked to maintain a CDN network. The way we do this is by tuning the operating system, writing custom our own network service, generating configuration across multiple servers etc. 
 
 
  # Education
