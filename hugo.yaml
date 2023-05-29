@@ -176,7 +176,7 @@ params:
         featuredLink:
           enable: false
           url: "https://example.com"
-        content: 
+        content: |- 
           I am currently working as a senioar software developer at [SUPA.](https://supa.so) in Kuala Lumpur, MY. I am currently working on a project that will be used to provide data annotation service to AI companies.
 
           - Lead backend developer for a product.
